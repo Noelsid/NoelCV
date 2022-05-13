@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NoelCV/static/css/main.79becb6b.css",
+    "main.js": "/NoelCV/static/js/main.0f790af8.js",
+    "static/media/Img2.jpg": "/NoelCV/static/media/Img2.861ddee1058b23ed1a22.jpg",
+    "static/media/Img1.jpg": "/NoelCV/static/media/Img1.4f7c48ca493cfbb5115d.jpg",
+    "static/media/Img3.jpg": "/NoelCV/static/media/Img3.490d2f3ec948f85713ca.jpg",
+    "static/media/Img4.jpg": "/NoelCV/static/media/Img4.73e228406e8c02d5a522.jpg",
+    "static/media/bg-texture.png": "/NoelCV/static/media/bg-texture.da5739366e2138b880be.png",
+    "static/media/CV.pdf": "/NoelCV/static/media/CV.e02eed5638fcd1a80108.pdf",
+    "static/media/me.png": "/NoelCV/static/media/me.c79d99c4f5736dc860f7.png",
+    "static/media/bg-img.png": "/NoelCV/static/media/bg-img.82ea9b6c46be2a7b42d3.png",
+    "index.html": "/NoelCV/index.html",
+    "main.79becb6b.css.map": "/NoelCV/static/css/main.79becb6b.css.map",
+    "main.0f790af8.js.map": "/NoelCV/static/js/main.0f790af8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79becb6b.css",
+    "static/js/main.0f790af8.js"
+  ]
+}
